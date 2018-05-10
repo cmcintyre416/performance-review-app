@@ -28,6 +28,8 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {
-    "node-sass": "^4.7.1"
+    "firebase": "^4.13.1",
+    "node-sass": "^4.7.1",
+    "react-router-dom": "^4.2.2"
   }
 }
